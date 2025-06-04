@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce90e8ac-7f0f-46ab-8e6f-9fba83896e10" name="Changes" comment="Final version of the project, fixed exploration- exploitation trade off">
-      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+    <list default="true" id="ce90e8ac-7f0f-46ab-8e6f-9fba83896e10" name="Changes" comment="Final version of the project, fixed exploration- exploitation trade off, properly added pictures 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/HVAC_Project_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/HVAC_Project_Final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749037333930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final version of the project, fixed exploration- exploitation trade off, properly added pictures">
+      <option name="closed" value="true" />
+      <created>1749039380971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749039380971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final version of the project, fixed exploration- exploitation trade off, properly added pictures 2">
+      <option name="closed" value="true" />
+      <created>1749039505892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749039505892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +191,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit of HVAC project" />
     <MESSAGE value="Final version of the project, fixed exploration- exploitation trade off" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final version of the project, fixed exploration- exploitation trade off" />
+    <MESSAGE value="Final version of the project, fixed exploration- exploitation trade off, properly added pictures again" />
+    <MESSAGE value="Final version of the project, fixed exploration- exploitation trade off, properly added pictures" />
+    <MESSAGE value="Final version of the project, fixed exploration- exploitation trade off, properly added pictures 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version of the project, fixed exploration- exploitation trade off, properly added pictures 2" />
   </component>
 </project>
