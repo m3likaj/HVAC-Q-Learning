@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce90e8ac-7f0f-46ab-8e6f-9fba83896e10" name="Changes" comment="Final version of the project, fixed exploration- exploitation trade off">
-      <change beforePath="$PROJECT_DIR$/.venv/HVAC_Project_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/HVAC_Project_Final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
