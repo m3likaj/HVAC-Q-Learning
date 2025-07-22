@@ -2,7 +2,7 @@
 # SMART    HVAC    SYSTEM
 
 
-Link to original report: 📄 [View Report](./Melika_Jibril_Seid_23435004013_RL_Odevi.pdf)
+Link to original report: 📄 [View Report](./Melika_Jibril_Seid_23435004013_RL_Odevi%20D3QN.pdf)
 
 
 
